@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tatarrel" target="blank"><img src="https://img.shields.io/twitter/follow/tatarrel?logo=twitter&style=for-the-badge" alt="tatarrel" /></a> </p>
 
-- 🔭 I’m currently working on **CI&T && GoFundMe**
+- 🔭 I’m currently working on **CI&T && Banco Itaú**
 
 - 🌱 I’m currently learning **Kotlin for Backend and Android Jetpack Compose**
 
