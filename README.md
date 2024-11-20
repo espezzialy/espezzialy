@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Espezzialy Souza</h1>
 <h3 align="center">A passionate software developer from Brazil!</h3>
 
-- 🔭 I’m currently working as a Senior Software Engineer on **CI&T && Banco Itaú**
+- 🔭 I’m currently working as a Senior Software Engineer on **CNN**
 
 - 🌱 I’m currently learning **NextJS**
 
