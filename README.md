@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working as a Senior Software Engineer on **CNN**
 
-- 🌱 I’m currently learning **NextJS**
-
-- 💬 Ask me about **Kotlin, Typescript, Agile Development and mobile development.**
+- 💬 Ask me about **Android, Kotlin, Agile Development and mobile development.**
 
 - 📫 How to reach me **espezzialy@outlook.com**
 
